@@ -2,6 +2,14 @@
 
 Stayora, React + Vite + Tailwind CSS kullanılarak geliştirilmiş bir otel yönetim uygulamasıdır. Veriler LocalStorage'da saklanır.
 
+## Ekran Görüntüleri
+
+### Ana Sayfa — Otel Listesi
+![Ana Sayfa](screenshot_1.png)
+
+### Yeni Otel Ekle
+![Otel Ekle Formu](screenshot_2.png)
+
 ## Özellikler
 
 - ➕ **Ekle** — Yeni otel ekleme (Create)
@@ -42,7 +50,3 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-
-## Ekran Görüntüsü
-
-![Stayora hotel management dashboard with navigation bar, hotel list cards, search and category filters, and add hotel form](scrgit add screenshot_1.png screenshot_2.png README.mdeenshot.png)
