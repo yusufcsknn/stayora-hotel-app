@@ -45,4 +45,4 @@ src/
 
 ## Ekran Görüntüsü
 
-![Stayora Screenshot](screenshot.png)
+![Stayora hotel management dashboard with navigation bar, hotel list cards, search and category filters, and add hotel form](scrgit add screenshot_1.png screenshot_2.png README.mdeenshot.png)
